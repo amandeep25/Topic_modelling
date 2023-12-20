@@ -1,0 +1,5 @@
+referred links for understanding 
+
+https://huggingface.co/docs/transformers/perplexity
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#google_vignette
+https://github.com/MIND-Lab/OCTIS
